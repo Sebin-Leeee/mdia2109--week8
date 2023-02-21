@@ -1,0 +1,17 @@
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    gap: 100px;
+    background-color: var(--ternary-color);
+    font-family: var(--font-mono);
+    color: var(--primary-color);
+}
+
+.button{
+    padding: 10px 20px;
+    color: var(--quanternary-color);
+    background-color: transparent;
+    border: 1px solid var(--primary-color);
+}
